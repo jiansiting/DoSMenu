@@ -1,0 +1,2 @@
+OS: Kali
+Requirement: bash/sudo/curl/netcat /hping3/openssl/stunnel/nmap/whois/nslookup/ike-scan
