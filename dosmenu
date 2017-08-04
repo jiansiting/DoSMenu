@@ -1113,8 +1113,9 @@ sleep 1
 ####################
 ##START SHOWREADME##
 showreadme()
-{echo "Tools by jiansiting"
-echo ""}
+{echo "This is the tools of DoSMenu, include Scan and DoS and Send file etc." 
+echo ""
+}
 ##END SHOWREADME##
 ##################
 ##/README##
@@ -1173,7 +1174,7 @@ fi }
 #########################
 ##START WELCOME MESSAGE##
 clear && echo ""
-echo "Welcome to dosmenu!"
+echo "Welcome to dosmenu! Tools by jiansiting"
 echo "This software is only for responsible, authorised use."
 echo "You are responsible for your own actions!"
 echo ""
