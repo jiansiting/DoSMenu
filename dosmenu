@@ -1113,7 +1113,7 @@ sleep 1
 ####################
 ##START SHOWREADME##
 showreadme()
-{echo "This is the tools of DoSMenu, include Scan and DoS and Send file etc." 
+{ echo "This is the tools of DoSMenu, include Scan and DoS and Send file etc." 
 echo ""
 }
 ##END SHOWREADME##
